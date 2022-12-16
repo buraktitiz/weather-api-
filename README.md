@@ -1,3 +1,6 @@
+https://weather-api-smoky.vercel.app/
+https://vercel.com/buraktitiz/weather-api
+
 ![Weather-api photos](https://github.com/buraktitiz/weather-api/blob/main/src/Pictures/Weather-api.gif)
 ### Uygulama Hakkında Bilgiler
 
